@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.30)  31 JUL 2018 14:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6730 64-bit) (preloaded format=pdflatex 2018.7.30)  31 JUL 2018 15:09
 entering extended mode
-**./temario.tex
-(temario.tex
+**./Temario.tex
+(Temario.tex
 LaTeX2e <2018-04-01> patch level 5
 ("C:\Users\jimmy\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\report.cls"
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
@@ -415,8 +415,24 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 82.
 )
 \Hy@SectionHShift=\skip65
-) (temario.aux)
-\openout1 = `temario.aux'.
+) (Temario.aux
+LaTeX Info: Redefining \. on input line 23.
+LaTeX Info: Redefining \% on input line 23.
+
+
+LaTeX Warning: Label `Baz' multiply defined.
+
+
+LaTeX Warning: Label `Baz' multiply defined.
+
+
+LaTeX Warning: Label `Baz' multiply defined.
+
+
+LaTeX Warning: Label `Baz' multiply defined.
+
+)
+\openout1 = `Temario.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -465,7 +481,7 @@ G,.JBIG2,.JB2,.eps]
 )
 Configuring pdfsync
 \PDFSYNC@ut=\write3
-\openout3 = `temario.pdfsync'.
+\openout3 = `Temario.pdfsync'.
 
 \PDFSYNCf@li@=\count141
 \PDFSYNC@rder=\count142
@@ -532,9 +548,9 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 40.
 LaTeX Info: Redefining \pageref on input line 40.
 LaTeX Info: Redefining \nameref on input line 40.
- (temario.out) (temario.out)
+ (Temario.out) (Temario.out)
 \@outlinefile=\write4
-\openout4 = `temario.out'.
+\openout4 = `Temario.out'.
 
 <unam.pdf, id=3, 822.27202pt x 924.25299pt>
 File: unam.pdf Graphic file (type pdf)
@@ -656,28 +672,28 @@ l.161 \end{document}
 l.161 \end{document}
                     ]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
- (temario.aux
+ (Temario.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
-Package rerunfilecheck Info: File `temario.out' has not changed.
+Package rerunfilecheck Info: File `Temario.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+LaTeX Warning: There were multiply-defined labels.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 161.
  ) 
 Here is how much of TeX's memory you used:
  8946 strings out of 492969
  130257 string characters out of 3126519
- 244212 words of memory out of 3000000
+ 244431 words of memory out of 3000000
  12684 multiletter control sequences out of 15000+200000
  10622 words of font info for 40 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,28n,43p,408b,541s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 30i,28n,43p,417b,541s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/jimmy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb><C:/Users/jimmy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
 blic/amsfonts/cm/cmbx12.pfb><C:/Users/jimmy/AppData/Local/Programs/MiKTeX 2.9/f
@@ -687,7 +703,7 @@ ocal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/jim
 my/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
 <C:/Users/jimmy/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmtt10.pfb>
-Output written on temario.pdf (3 pages, 188641 bytes).
+Output written on Temario.pdf (3 pages, 188633 bytes).
 PDF statistics:
  63 PDF objects out of 1000 (max. 8388607)
  14 named destinations out of 1000 (max. 500000)
