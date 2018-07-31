@@ -1,0 +1,164 @@
+\documentclass[11pt]{report}
+%%%%%%%%%%%%
+\usepackage{graphicx}
+\usepackage{pdfsync}
+\usepackage{amsmath}
+\usepackage{nccmath}
+\usepackage{subfigure}
+\usepackage{float}
+\usepackage{longtable}
+\usepackage[utf8]{inputenc}
+%\usepackage[applemac]{inputenc}
+\usepackage[letterpaper]{geometry}
+\usepackage[spanish]{babel}
+\usepackage{graphicx}
+\usepackage{amsfonts}
+\usepackage{listings}
+
+%medidas verticales
+\voffset=-1in %default 1 inch
+\topmargin=2.5cm
+\headheight=0pt %12pt
+\headsep=0pt %25pt
+\textheight=22cm
+\footskip=30pt %30pt
+
+%medidas hotizontales
+\hoffset=-1in %default 1 inch
+\marginparwidth=0pt %35pt
+\oddsidemargin=2.5cm %31pt
+\marginparsep=0pt %10pt
+\textwidth=16.5cm
+\usepackage{dsfont}
+\usepackage{fancyhdr}
+\fancyhead{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.2pt}
+\usepackage{hyperref}
+
+\begin{document}
+\pagestyle{fancy}
+
+%\begin{figure}[h]
+\begin{minipage}{3.8cm}
+%The curret path is /home/rich 
+\includegraphics[width=2.2cm]{unam.pdf} 
+%Logo a color
+%\includegraphics[width=2.8cm]{/home/rich/Pictures/Logos/UNAM_logo_color.jpg}
+\end{minipage}
+%\end{figure}
+\begin{minipage}{0.42\linewidth}
+\begin{center}
+{\large Universidad Nacional Autónoma de México\\Temario Estadística Computacional y Machine Learning\\
+Prof. Jimmy Hernández Morales\\
+Porf. Adjunto  Rodrigo Quijón Hipolito}
+\end{center}
+\end{minipage}
+\vspace{1cm}
+
+El curso pretende ser una introducción a lo que actualmente se como Machine Learning, que son un conjunto de técnicas estadísticas que junto con el desarrollo de algoritmos computacionales han tenido mucho auge en los últimos años.  Todos los temas serán estudiados desde el punto de vista estadístico formal, pero haciendo mucho enfasis en la implementación computacional. 
+Los lenguaje principal que usaremos será Python o Java y como auxiliar R. Las bibliotecas esenciales que usaremos son Matplotlib, Scipy, Numpy, Pandas, Scikit Learn y MLlib. Se calificará mediante tareas y proyectos.
+
+\subsection*{Temario}
+
+\begin{enumerate}
+\item \textbf{Regresión Lineal y Logística} 
+\begin{itemize}
+
+\item[1.1] Regresión Lineal Simple 
+\item[1.2] Regresión Múltiple 
+\item[1.3] Selección de Modelos 
+\begin{itemize}
+\item[1.3.1] Criterios AIC, BIC y divergencia de Kullback-Leibler
+\end{itemize}
+\item[1.4] Regresión Logística   
+\end{itemize}
+
+
+\item  \textbf{Aprendizaje Supervisado(Clasificación)}
+\begin{itemize}
+\item[2.1] Clasificadores Lineales y Gausianos. 
+\item[2.2] Regresión Lineal y Lógistica 
+\item[2.3] Discriminante Lineal(LDA) 
+\item[2.3] Naive Bayes
+\item[2.4] Maquinas soporte vectorial
+\item[2.5] Kernelización
+\item[2.6] Ejemplos, caso de estudio: redes neuronales.
+\end{itemize}
+
+
+\item \textbf{Modelos aditivos, arboles y Boosting}
+\begin{itemize}
+\item[3.1] Modelos aditivos Generalizados.
+\item[3.2] Arboles de regresión
+\item[3.3] Arboles de clasificación
+\item[3.4] Metodos boosting 
+\item[3.5] Ajuste boosting y modelos aditivos. 
+\item[3.5] Arboles boosting
+\end{itemize}
+
+
+\item  \textbf{Aprendizaje no supervisado(Clustering)}
+\begin{itemize}
+\item[4.1] Reglas de asociación
+\item[4.2] Analisis de Cluster
+\item[4.3] Componentes principales.
+\end{itemize}
+
+
+
+
+\item \textbf{Estadística de Altas Dimensiones y  Big Data}
+\begin{itemize}
+\item[5.1] Algoritmos de optimización
+\begin{itemize}
+\item[5.1.1] Gradiente descendiente
+\item[5.1.1] Coordenadas descendientes
+\end{itemize}
+\item[5.2] Regresión Contraida
+\begin{itemize}
+\item[5.2.1] Regresión Lasso
+\item[5.2.1] Regresion Ridge
+\end{itemize}
+\item[5.3] Correlación Espuria 
+\item[5.4] Endogeneidad incidental
+\begin{itemize}
+\item[5.4.1] GMM
+\item[5.4.2] FGMM 
+ \end{itemize}
+ \item[5.5] Acumulación de ruido
+
+\end{itemize}
+
+\end{enumerate}
+
+
+\begin{thebibliography}{X}
+
+\bibitem{Baz} \textsc{Hastie, T., Tibshirani, R., Friedman, J} The Elements of Statistical Learning. Data Mining, Inference, and Prediction, 2nd ed., Springer.
+
+\bibitem{Baz}  \textsc{G. James, D. Witten, T. Hastie and R. Tibshirani}  An Introduction to Statistical Learning, with Application in R  (Springer, 2013).
+
+\bibitem{Baz} \textsc{Diggle, P} 
+Statistical Learning with Sparsity. The lasso and generalizations. Chapman and Hall.
+
+
+\bibitem{Baz} \textsc{T. W. Anderson} An Introduction to Multivariate Statistical Analysis, John Wiley and Sons Inc; Edición: 3rd Edition .
+
+\bibitem{Baz} \textsc{Michie, Spiegelhalter y Taylor} y \textsc{Petrick J. Heagarty }, Machine Learning, Neural and Statistical Classification.
+\bibitem{Dan} \textsc{Alan Agresti } ,
+Categorical Data Analysis,
+\textit{ Wiley-Interscience Publication}.
+\bibitem{Dan1} \textsc{Thomas W. Yee},
+Vector Generalized Linear and Additive Models with implementations in R,
+\textit{Springer}. 
+
+\bibitem{Dan1} \textsc{Andreas Muller, Sarah Guido},
+Introduction to Machine Learning with Python, a guide for data Scientist
+\textit{Springer}. 
+
+\end{thebibliography}
+\end{document}
+
+
