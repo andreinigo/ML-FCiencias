@@ -1,2 +1,2 @@
 # ML-FCiencias
-Aqui escontraras todo lo relacionado con el curso
+Aquí escontraras todo lo relacionado con el curso
