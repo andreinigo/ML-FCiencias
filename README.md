@@ -9,3 +9,5 @@ básicamente es presionar siguiente siguiente.
 3.- Mañana les enseño como CLONAR(tener una copia de este proyecto con GIT).
 
 4.- Actualice a la versión mas reciente las notas del Profesor Antonio Soriano, que muy amablemente acepto compartir con nosotros.
+
+5.- Acabo de subir una versión en construcción de un Manual de Git, esta se estará actualizando a medida de lo posible. 
