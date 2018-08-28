@@ -12,10 +12,10 @@ básicamente es presionar siguiente siguiente.
 
 5.- Acabo de subir una versión en construcción de un Manual de Git, esta se estará actualizando a medida de lo posible. 
 
-6. Subí el notebook con el ejemplo de hoy.
+6.- Subí el notebook con el ejemplo de hoy.
 
-7. Lista su primera tarea parte 1.
+7.- Lista su primera tarea parte 1.
 
-8. En el transcurso de esta semana subo los demas ejemplos vistos en clase. 
+8.- En el transcurso de esta semana subo los demas ejemplos vistos en clase. 
 
-9. Sigue regresión contraida(Ridge, Lasso) y logística.
+9.- Sigue regresión contraida(Ridge, Lasso) y logística.
