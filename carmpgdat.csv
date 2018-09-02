@@ -1,0 +1,83 @@
+MAKE      ,MODEL ,MPG,VOL,HP,SP,WT
+GM,GeoMetroXF1,65.4,89,49,96,17.5
+GM,GeoMetro,56,92,55,97,20
+GM,GeoMetroLSI  ,55.9,92,55,97,20
+Suzuki,Swift,49,92,70,105,20
+Daihatsu,Charade ,46.5,92,53,96,20
+GM,GeoSprintTurbo,46.2,89,70,105,20
+GM,GeoSprint,45.4,92,55,97,20
+Honda,CivicCRXHF ,59.2,50,62,98,22.5
+Honda,CivicCRXHF ,53.3,50,62,98,22.5
+Daihatsu,Charade ,43.4,94,80,107,22.5
+Subaru,Justy,41.1,89,73,103,22.5
+Honda,CivicCRX ,40.9,50,92,113,22.5
+Honda,Civic,40.9,99,92,113,22.5
+Subaru,Justy,40.4,89,73,103,22.5
+Subaru,Justy,39.6,89,66,100,22.5
+Subaru,Justy4wd,39.3,89,73,103,22.5
+Toyota,Tercel,38.9,91,78,106,22.5
+Honda,CivicCRX,38.8,50,92,113,22.5
+Toyota,Tercel,38.2,91,78,106,22.5
+Ford,Escort,42.2,103,90,109,25
+Honda,Civic,40.9,99,92,110,25
+Pontiac,LeMans,40.7,107,74,101,25
+Isuzu,Stylus,40,101,95,111,25
+Dodge,Colt,39.3,96,81,105,25
+GM,GeoStorm,38.8,89,95,111,25
+Honda,CivicCRX,38.4,50,92,110,25
+Honda,CivicWagon,38.4,117,92,110,25
+Honda,Civic,38.4,99,92,110,25
+Subaru ,Loyale,29.5,102,90,109,25
+Volks,JettaDiesel,46.9,104,52,90,27.5
+Mazda,323Protege,36.3,107,103,112,27.5
+Ford,EscortWagon,36.1,114,84,103,27.5
+Ford,Escort,36.1,101,84,103,27.5
+GM,GeoPrism,35.4,97,102,111,27.5
+Toyota,Corolla,35.3,113,102,111,27.5
+Eagle,Summit,35.1,101,81,102,27.5
+Nissan,CentraCoupe,35.1,98,90,106,27.5
+Nissan,CentraWagon,35,88,90,106,27.5
+Toyota,Celica,33.2,86,102,109,30
+Toyota,Celica,32.9,86,102,109,30
+Toyota,Corolla,32.3,92,130,120,30
+Chevrolet,Corsica,32.2,113,95,106,30
+Chevrolet,Beretta,32.2,106,95,106,30
+Toyota,Corolla,32.2,92,102,109,30
+Pontiac,SunbirdConv,32.2,88,95,106,30
+Dodge,Shadow,31.5,102,93,105,30
+Dodge,Daytona,31.5,99,100,108,30
+Eagle,Spirit,31.4,111,100,108,30
+Ford,Tempo,31.4,103,98,107,30
+Toyota,Celica,31.2,86,130,120,30
+Toyota,Camry,33.7,101,115,109,35
+Toyota,Camry,32.6,101,115,109,35
+Toyota,Camry,31.3,101,115,109,35
+Toyota,CamryWagon,31.3,124,115,109,35
+Olds,CutlassSup ,30.4,113,180,133,35
+Olds ,CutlassSup,28.9,113,160,125,35
+Saab,9000,28,124,130,115,35
+Ford,Mustang,28,92,96,102,35
+Toyota,Camry,28,101,115,109,35
+Chrysler,LebaronConv,28,94,100,104,35
+Dodge,Dynasty,28,115,100,105,35
+Volvo,740,27.7,111,145,120,35
+Ford,Thunderbird,25.6,116,120,107,40
+Chevrolet,Caprice,25.3,131,140,114,40
+Lincoln,Continental,23.9,123,140,114,40
+Chrysler,NewYorker,23.6,121,150,117,40
+Buick,Reatta,23.6,50,165,122,40
+OldsTrof,Toronado,23.6,114,165,122,40
+Oldsmobile,98,23.6,127,165,122,40
+Pontiac,Bonneville,23.6,123,165,122,40
+Lexus,LS400,23.5,112,245,148,40
+Nissan,300ZX,23.4,50,280,160,40
+Volvo,760Wagon,23.4,135,162,121,40
+Audi,200QuatroWag,23.1,132,162,121,40
+Buick,ElectraWagon,22.9,160,140,110,45
+Cadillac,Brougham,22.9,129,140,110,45
+Cadillac,Brougham,19.5,129,175,121,45
+Mercedes,500SL,18.1,50,322,165,45
+Mercedes,560SEL ,17.2,115,238,140,45
+Jaguar,XJSConvert,17,50,263,147,45
+BMW,750IL,16.7,119,295,157,45
+Rolls,RoyceVarious,13.2,107,236,130,55
